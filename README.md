@@ -7,4 +7,4 @@
 
 Below is an example:
 
-![plot](./C:\Users\kanur\Pictures)
+
